@@ -21,7 +21,7 @@
   if("notexist".equals(msg))
   {
   %>
-  <h1>Incorrect Username or Password</h1>
+  <h1>Incorrect UserName or Password</h1>
 <%} %>
 <%if("invalid".equals(msg)) 
 {%>
