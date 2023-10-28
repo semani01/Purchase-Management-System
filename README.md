@@ -23,7 +23,7 @@ This project is a purchases management system for industries, and manufacturing 
 <br><br>
 
 <p align = "center" fontsize = 20>
-A user can view the required product and purchase it. Users can search or filter the product according to the requirement. The admin plays an important role in this application. Admin can add the new product in the database and can track the record of all the products and transactions. The main objective of the e-commerce project in java is to provide an online platform to sell their product.
+A user can search for a product and even apply filters if needed. A billing and tracking system has also been put in place that can be accessed by the user. The admin has a variety of controls such as adding new products to the database, and tracking and keeping records of all products and transactions. The main objective of this e-commerce project in Java is to provide an online platform for organizations to advertise and sell their products effectively and to attract next-generation clientele. 
 </p>
 
 <h2 align = "left"> Screenshots </h2>
