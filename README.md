@@ -9,7 +9,7 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 
 
-## Tools/Technologies Utilized
+<h2 align = "left"> Tools/Technologies Utilized </h2>
 - HTML
 - CSS
 - Java
@@ -26,7 +26,7 @@ This project is a purchases management system for industries, and manufacturing 
 A user can view the required product and purchase it. Users can search or filter the product according to the requirement. The admin plays an important role in this application. Admin can add the new product in the database and can track the record of all the products and transactions. The main objective of the e-commerce project in java is to provide an online platform to sell their product.
 </p>
 
-### Screenshots
+<h2 align = "left"> Screenshots </h2>
 <h4 align = "left"> User Pages </h4> 
 
 <p align = "center">
@@ -74,7 +74,7 @@ A user can view the required product and purchase it. Users can search or filter
 <br>
 
 
-<h2 align = "center"> Diagrams explaining code design, architecture, and implementation </h2>
+<h2 align = "left"> Diagrams explaining code design, architecture, and implementation </h2>
 <p align = "center">
 <img src = "/Screenshots/Waterfall.png" alt="waterfall" height = 300 width = 400/>
 <h5 align = "center"> Waterfall Methodology Employed</h5> 
