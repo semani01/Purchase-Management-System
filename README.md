@@ -19,11 +19,13 @@ A user can view the required product and purchase it. Users can search or filter
 - JSP
 - JDBC
 
-### Screenshots
+
 <p align = "center" fontsize = 20>
 This project is a purchases management system for industries, and manufacturing companies to ease the process of ordering, tracking, and managing one’s inventory and goods. There is no compelling reason to go to crowded stores or shopping centers during festival seasons. You simply require a PC or a laptop. To access this purchases management system all the customers will need to have is an email and password to log in and proceed with their managing. The login credentials for a purchases management system are very secure. Upon successful login, the customers can order and track a wide array of industrial goods. It is very simple to navigate and use.
 </p>
-<h3 align = "center"> User Pages </h3> 
+
+### Screenshots
+<h4 align = "left"> User Pages </h4> 
 
 <p align = "center">
 <img src = "/Screenshots/Signup.png" alt="signup page" height = 300 width = 500/>
@@ -55,7 +57,19 @@ This project is a purchases management system for industries, and manufacturing 
 <h5 align = "center"> User's My Orders Page</h5> 
 </p>
 <br>
+
+<p align = "center">
+<img src = "/Screenshots/Admin/All prods.png" alt="all products" height = 300 width = 800/>
+<h5 align = "center"> Admin's All Products Page</h5> 
+</p>
+
+<p align = "center">
+<img src = "/Screenshots/Admin/Orders Received.png" alt="orders received" height = 300 width = 800/>
+<h5 align = "center"> Admin's Page Showing Orders Received</h5> 
+</p>
 <br>
+<br>
+
 
 ### Diagrams explaining code design, architecture, and implementation
 <p align = "center">
