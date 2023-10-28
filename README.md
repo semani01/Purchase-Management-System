@@ -7,7 +7,8 @@ This project is a purchases management system for industries, and manufacturing 
 ### A few diagrams to explain  code design, architecture, and implementation:
 <p align = "center">
 <img src = "/Diagrams/Sequence_Diagram.png" alt="sequence diagram" height = 400 width = 400/>
-<h5 align = "center"> Sequence Diagram </h5> <br>
+<h5 align = "center"> Sequence Diagram </h5> 
+  
 <img src = "/Diagrams/State_Diagram.png" alt="state diagram" height = 400 width = 400/>
 <h5 align = "center"> State Diagram </h5>
 </p>
