@@ -9,11 +9,37 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 
 ### Screenshots
+<h3 align = "center"> User Pages </h3> 
+
 <p align = "center">
-<img src = "/Diagrams/Sequence_Diagram.png" alt="sequence diagram" height = 400 width = 400/>
-<h5 align = "center"> Sequence Diagram </h5> 
+<img src = "/Screenshots/Signup.png" alt="signup page" height = 400 width = 400/>
+<h5 align = "center"> Signup Page </h5> 
 </p>
 
+<p align = "center">
+<img src = "/Screenshots/User Home all prods.png" alt="user home all products" height = 400 width = 400/>
+<h5 align = "center"> User Home Page Showing Products Available for Purchase </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Screenshots/My Cart.png" alt="my cart" height = 400 width = 400/>
+<h5 align = "center"> My Cart Page showing products added to cart </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Screenshots/Address & Payment for orders.png" alt="add & pay for orders" height = 400 width = 400/>
+<h5 align = "center"> Payment and Delivery Details Page </h5> 
+</p>
+
+<p align = "center">
+<img src = "/Screenshots/Bill.png" alt="bill" height = 400 width = 400/>
+<h5 align = "center"> Page showing User's Bill</h5> 
+</p>
+
+<p align = "center">
+<img src = "/Screenshots/My Orders.png" alt="my orders" height = 400 width = 400/>
+<h5 align = "center"> User's My Orders Page</h5> 
+</p>
 
 ### A few diagrams to explain  code design, architecture, and implementation:
 <p align = "center">
