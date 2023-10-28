@@ -6,8 +6,8 @@ This project is a purchases management system for industries, and manufacturing 
 
 
 <p align = "center">
-<img src = "/PMS_pics/Picture1.png" width = 250/>
-<img src = "/PMS_pics/Picture2.png" width = 250/>
+<img src = "/Diagrams/Sequence_Diagram.png" width = 250/>
+<img src = "/Diagrams/State_Diagram.png" width = 250/>
 </p>
 
 
