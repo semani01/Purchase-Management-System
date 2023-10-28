@@ -5,7 +5,7 @@
 </p>
 
 <p align = "center" fontsize = 20>
-This project is a purchases management system for industries, and manufacturing companies to ease the process of ordering, tracking, and managing one’s inventory and goods. There is no compelling reason to go to crowded stores or shopping centers during festival seasons. You simply require a PC or a laptop. To access this purchases management system all the customers will need to have is an email and password to log in and proceed with their managing. The login credentials for a purchases management system are very secure. Upon successful login, the customers can order and track a wide array of industrial goods. It is very simple to navigate and use.
+A user can view the required product and purchase it. Users can search or filter the product according to the requirement. The admin plays an important role in this application. Admin can add the new product in the database and can track the record of all the products and transactions. The main objective of the e-commerce project in java is to provide an online platform to sell their product.
 </p>
 
 ## Tools/Technologies Utilized
@@ -20,6 +20,9 @@ This project is a purchases management system for industries, and manufacturing 
 - JDBC
 
 ### Screenshots
+<p align = "center" fontsize = 20>
+This project is a purchases management system for industries, and manufacturing companies to ease the process of ordering, tracking, and managing one’s inventory and goods. There is no compelling reason to go to crowded stores or shopping centers during festival seasons. You simply require a PC or a laptop. To access this purchases management system all the customers will need to have is an email and password to log in and proceed with their managing. The login credentials for a purchases management system are very secure. Upon successful login, the customers can order and track a wide array of industrial goods. It is very simple to navigate and use.
+</p>
 <h3 align = "center"> User Pages </h3> 
 
 <p align = "center">
