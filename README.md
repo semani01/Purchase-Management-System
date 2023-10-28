@@ -74,7 +74,7 @@ A user can view the required product and purchase it. Users can search or filter
 <br>
 
 
-### Diagrams explaining code design, architecture, and implementation
+<h2 align = "center"> Diagrams explaining code design, architecture, and implementation </h2>
 <p align = "center">
 <img src = "/Screenshots/Waterfall.png" alt="waterfall" height = 300 width = 400/>
 <h5 align = "center"> Waterfall Methodology Employed</h5> 
