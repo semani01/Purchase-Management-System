@@ -9,15 +9,15 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 
 ## Tools/Technologies Utilized
--HTML
--CSS
--Java
--Eclipse IDE
--Apache Tomcat Server
--MySQL 8.0 Command Line Client
--Java Servlets
--JSP
--JDBC
+ -HTML
+ -CSS
+ -Java
+ -Eclipse IDE
+ -Apache Tomcat Server
+ -MySQL 8.0 Command Line Client
+ -Java Servlets
+ -JSP
+ -JDBC
 
 ### Screenshots
 <h3 align = "center"> User Pages </h3> 
