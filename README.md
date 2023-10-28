@@ -58,7 +58,7 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 <br>
 
-<h4 align = "left"> User Pages </h4> 
+<h4 align = "left"> Admin Pages </h4> 
 <p align = "center">
 <img src = "/Screenshots/Admin/All prods.png" alt="all products" height = 300 width = 800/>
 <h5 align = "center"> Admin's All Products Page</h5> 
