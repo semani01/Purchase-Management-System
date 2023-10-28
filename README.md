@@ -9,7 +9,7 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 
 
-<h2 align = "left"> Tools/Technologies Utilized </h2>
+### Tools/Technologies Utilized 
 - HTML
 - CSS
 - Java
