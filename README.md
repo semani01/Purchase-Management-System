@@ -23,7 +23,7 @@ This project is a purchases management system for industries, and manufacturing 
 <h3 align = "center"> User Pages </h3> 
 
 <p align = "center">
-<img src = "/Screenshots/Signup.png" alt="signup page" width = 200/>
+<img src = "/Screenshots/Signup.png" alt="signup page" height = 300 width = 500/>
 <h5 align = "center"> Signup Page </h5> 
 </p>
 
