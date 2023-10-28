@@ -20,12 +20,12 @@ This project is a purchases management system for industries, and manufacturing 
 </p>
 
 <p align = "center">
-<img src = "/Diagrams/Admin_ER_Diagram.jpg" alt="admin er diagram" height = 400 width = 400/>
+<img src = "/Diagrams/Admin_ER_Diagram.png" alt="admin er diagram" height = 400 width = 400/>
 <h5 align = "center"> Admin ER Diagram </h5> 
 </p>
   
 <p align = "center">
-<img src = "/Diagrams/User_ER_Diagram.jpg" alt="user er diagram" height = 400 width = 400/>
+<img src = "/Diagrams/User_ER_Diagram.png" alt="user er diagram" height = 400 width = 400/>
 <h5 align = "center"> User ER Diagram </h5>
 </p>
 
