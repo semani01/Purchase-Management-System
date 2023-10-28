@@ -6,7 +6,8 @@ This project is a purchases management system for industries, and manufacturing 
 </br>
 
 <p align = "center">
-<img src = "![Picture1](https://github.com/semani01/Purchase-Management-System/assets/87389478/222f344a-50fe-458f-871e-3a1062bbfde0)" width = 250/>
-
+<img src = "/PMS_pics/Picture1.png" width = 250/>
+<img src = "/PMS_pics/Picture2.png" width = 250/>
+</p>
 
 
